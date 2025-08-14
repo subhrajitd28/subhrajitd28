@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhrajitd28&label=Profile%20views&color=0e75b6&style=flat" alt="subhrajitd28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhundhun1111" alt="dhundhun1111" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhrajitd28" alt="subhrajitd28" /></a> </p>
 
 -  🎓Currently Junior at **IIEST Shibpur**
 
