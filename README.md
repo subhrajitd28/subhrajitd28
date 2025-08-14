@@ -11,7 +11,7 @@
 
 - 💡 I'm interested in **Software Development Engineering**
 
-- 📫 How to reach me **witbyte111@gmail.com**
+- 📫 How to reach me **subhrajitd28@gmail.com**
 
 ![naruto](https://github.com/dhundhun1111/dhundhun1111/assets/153059766/cbdd2f0c-dcaa-425d-b5d0-fd71667500fd)
 
