@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUBHRA✨</h1>
-<h3 align="center">An Alien Realigning his code indentations!</h3>
+<h3 align="center">Wabi sabi!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhrajitd28&label=Profile%20views&color=0e75b6&style=flat" alt="subhrajitd28" /> </p>
 
